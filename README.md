@@ -7,7 +7,7 @@ This example is to show different parts of the git.
 ## Purpose
 Main purpose to show git demo.
 
-##Deployment
+## Deployment
 This can be deployed anywhere.
 
 ## How To Contribute
